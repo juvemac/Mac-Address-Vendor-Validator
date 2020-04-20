@@ -1,6 +1,9 @@
 # Mac-Address-Vendor-Validator
 This script helps to get the vendor's data of a mac address, data is being consumed via API from Mac Address io
 
+### How to get my own API KEY?
+You can register to get your own api key by visiting https://macaddress.io, once done, do not forget to place it into the code line 7
+
 ### How to build the docker container ?
 To build the docker container run:
 ```bash
